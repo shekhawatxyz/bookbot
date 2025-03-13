@@ -1,5 +1,4 @@
 from stats import get_num_words, count, sort_on
-import sys
 
 def main(args: list[str]):
     if len(args) < 2:
